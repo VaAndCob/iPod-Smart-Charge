@@ -5,4 +5,4 @@
 
 ![protype](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/prototype.jpg)
 
-![UI](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/ui.jpg)
+![UI](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/ui.png)
