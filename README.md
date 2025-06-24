@@ -1,6 +1,8 @@
 # iPod Smart Charge
 ## 4 in 1 Charging Station with smart features
-## 🚧 Under Deveopment 🚧
+## 🚧 Under Development 🚧
+
+![logo](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/chargeIcon.webp)
 
 ![iPodSmartCharge](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/pyramid1.jpg)
 
