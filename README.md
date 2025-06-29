@@ -1,5 +1,5 @@
 # iPod Smart Charger 🔋
-
+![logo](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/chargeIcon.webp)
 ## 🚧 Under Development 🚧
 
 A revolutionary charging controller designed to dramatically extend your iPod's battery lifespan by implementing intelligent charging strategies.
@@ -11,7 +11,7 @@ Features
 
 🧠 Adaptive Technology: It intelligently detects signs of battery degradation and automatically adjusts the charging parameters to protect older, more fragile batteries.
 
-![logo](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/chargeIcon.webp)
+
 
 ![iPodSmartCharge](https://github.com/VaAndCob/iPod-Smart-Charge/blob/main/pictures/pyramid1.jpg)
 
